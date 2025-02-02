@@ -50,4 +50,4 @@ This extension is ideal for students, professionals, and anyone looking to manag
 
 # OUTPUT
 
-![Image](https://github.com/user-attachments/assets/b4f20d5f-54f4-4007-bb18-5af4bacc8a73)
+![Image](https://github.com/user-attachments/assets/d7df1afa-c1a3-480f-858f-4283da36298e)
